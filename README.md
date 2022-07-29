@@ -1,2 +1,2 @@
-# santander-bootcamp-fullstack-developer-introducao-pratica-ts
+# santander-bootcamp_desafio-ts
 Introdução prática ao TypeScript
